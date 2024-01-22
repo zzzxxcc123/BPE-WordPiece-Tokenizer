@@ -1,4 +1,4 @@
-# 토큰화 알고리즘 BPE, WordPiece Tokenizer
+# 토큰화 알고리즘 BPE, WordPiece Tokenizer 📖
 <br>
 
 ## 소개
