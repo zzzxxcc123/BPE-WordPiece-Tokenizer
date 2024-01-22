@@ -39,6 +39,7 @@
 - Bottom-up 방식으로 작동하며, 글자(charcter) 단위에서 시작하여 단어 집합(vocabulary)을 만들어냅니다.
 
 - 이 방법은 Sennrich et al가 2016년도에 서술한 'Neural Machine Translation of Rare Words with Subword Units'논문에서 제안되었습니다
+  
 - 논문: https://arxiv.org/pdf/1508.07909.pdf
 
 ### BPE의 필요성
