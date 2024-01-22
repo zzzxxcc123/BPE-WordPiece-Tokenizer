@@ -87,7 +87,7 @@
 ### 4. 반복:
 - 단계 3의 과정을 원하는 횟수나 기준을 충족할 때까지 반복합니다.
 - 예시: 새로운 상태에서 'ap', 'p', 'l', 'e' 중에서 빈도가 가장 높은 쌍을 찾아서 통합하고 이를 반복합니다.
-- 
+
 ![KakaoTalk_20240122_115022307](https://github.com/zzzxxcc123/BPE-WordPiece-Tokenizer/assets/117971016/c10ecec6-6c08-49f7-8a09-7c1392bd850d)
 
 # 텍스트 분리 과정:
@@ -105,7 +105,8 @@
 
 ### 최종 결과:
 - 인코딩된 서브워드들로 최종적인 텍스트를 구성합니다. 'lowest' -> 'low'와 'est'
-- 
-![image](https://github.com/zzzxxcc123/BPE-WordPiece-Tokenizer/assets/117971016/d87cd3cd-0d61-4f0a-8a52-f96e6a7c0aa3)
+
+<center>![image](https://github.com/zzzxxcc123/BPE-WordPiece-Tokenizer/assets/117971016/e7c72c1b-94a5-46d8-96ac-1aeeea160786)</center>
+
 
 
