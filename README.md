@@ -92,7 +92,7 @@
   <img src="https://github.com/zzzxxcc123/BPE-WordPiece-Tokenizer/assets/117971016/78404a3d-cfca-4ef1-8310-fbef64e8ff93" alt="이미지 설명">
 </p>
 
-## BPE 알고리즘 적용:
+## BPE 알고리즘 적용
 
 ### 글자 단위 분리:
 - 입력된 단어를 글자 단위로 분리합니다.
