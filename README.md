@@ -106,7 +106,9 @@
 ### 최종 결과:
 - 인코딩된 서브워드들로 최종적인 텍스트를 구성합니다. 'lowest' -> 'low'와 'est'
 
-<center>![image](https://github.com/zzzxxcc123/BPE-WordPiece-Tokenizer/assets/117971016/e7c72c1b-94a5-46d8-96ac-1aeeea160786)</center>
+<p align="center">
+  <img src="[https://example.com/your-image.jpg](https://github.com/zzzxxcc123/BPE-WordPiece-Tokenizer/assets/117971016/e7c72c1b-94a5-46d8-96ac-1aeeea160786)https://github.com/zzzxxcc123/BPE-WordPiece-Tokenizer/assets/117971016/e7c72c1b-94a5-46d8-96ac-1aeeea160786" alt="이미지 설명">
+</p>
 
 
 
