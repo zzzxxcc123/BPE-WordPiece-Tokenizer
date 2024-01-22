@@ -88,7 +88,9 @@
 - 단계 3의 과정을 원하는 횟수나 기준을 충족할 때까지 반복합니다.
 - 예시: 새로운 상태에서 'ap', 'p', 'l', 'e' 중에서 빈도가 가장 높은 쌍을 찾아서 통합하고 이를 반복합니다.
 
-![KakaoTalk_20240122_115022307](https://github.com/zzzxxcc123/BPE-WordPiece-Tokenizer/assets/117971016/c10ecec6-6c08-49f7-8a09-7c1392bd850d)
+<p align="center">
+  <img src="https://github.com/zzzxxcc123/BPE-WordPiece-Tokenizer/assets/117971016/78404a3d-cfca-4ef1-8310-fbef64e8ff93" alt="이미지 설명">
+</p>
 
 # 텍스트 분리 과정:
 
